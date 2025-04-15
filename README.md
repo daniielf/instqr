@@ -1,11 +1,16 @@
 # InstQR
-Instant QR code generator for MacOS.
+Instant QR code generator for MacOS.`
+
+Generate QR Codes from any text quick and simple from your Mac device.
 
 ## Preview
+![Demo video](assets/demo_video.mov)
 
+<img src="assets/image_1.jpg" height="540px" width="810px"/>
+<img src="assets/image_2.jpg" height="540px" width="810px"/>
 
 ## Store
-
+<em>(Coming soon...)</em>
 
 ## License
 
